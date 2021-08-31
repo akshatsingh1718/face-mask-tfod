@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+cocoapi/ 
+protoc-3.17.3-linux-x86_64/ 
+Tensorflow/models/ 
+Tensorflow/workspace/training_demo/annotations/
+Tensorflow/workspace/training_demo/images/
+Tensorflow/workspace/training_demo/models/my_ssd_mobilenet_320/old_ckpt/
+Tensorflow/workspace/training_demo/models/my_ssd_mobilenet_320/eval/
+Tensorflow/workspace/training_demo/models/my_ssd_mobilenet_320/train/
+Tensorflow/workspace/training_demo/models/my_ssd_mobilenet_320/tfjsexport/
+
